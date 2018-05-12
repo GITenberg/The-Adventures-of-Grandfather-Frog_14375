@@ -1,0 +1,43 @@
+_repo: The-Adventures-of-Grandfather-Frog_14375
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cady, Harrison
+    aliases:
+    - Cady, W. Harrison (Walter Harrison)
+    - Cady, Walter Harrison
+    birthdate: 1877
+    deathdate: 1970
+    gutenberg_agent_id: '8456'
+    url: http://www.gutenberg.org/2009/agents/8456
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: When Grandfather Frog sets out to see the Great World, he discovers it
+  is a dangerous place and is happy to return to the Smiling Pool.
+gutenberg_bookshelf:
+- Children's Book Series
+- Children's Literature
+gutenberg_issued: '2004-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Frogs -- Juvenile fiction'
+title: The Adventures of Grandfather Frog
+url: http://www.gutenberg.org/ebooks/14375
